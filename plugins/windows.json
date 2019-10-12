@@ -1,0 +1,40 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-battery-status": {
+      "PACKAGE_NAME": "Product Prices"
+    },
+    "cordova-plugin-camera": {
+      "PACKAGE_NAME": "Product Prices"
+    },
+    "cordova-plugin-console": {
+      "PACKAGE_NAME": "Product Prices"
+    },
+    "cordova-plugin-contacts": {
+      "PACKAGE_NAME": "Product Prices"
+    },
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "Product Prices"
+    },
+    "cordova-plugin-device-motion": {
+      "PACKAGE_NAME": "Product Prices"
+    },
+    "cordova-plugin-device-orientation": {
+      "PACKAGE_NAME": "Product Prices"
+    },
+    "cordova-plugin-dialogs": {
+      "PACKAGE_NAME": "Product Prices"
+    }
+  },
+  "dependent_plugins": {
+    "cordova-plugin-file": {
+      "PACKAGE_NAME": "Product Prices"
+    }
+  }
+}
